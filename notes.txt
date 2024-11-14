@@ -22,6 +22,14 @@ In the front_end run in slot-machine npm run build then npm run start
 Please kindly put the public file in the slot-machine folder 
 
 
+Also make sure you have .env file inside slot-machine with the following contents
+
+NODE_PORT=5001
+
+REACT_APP_API_BASE_URL=http://localhost:5000
+
+
+
 
 
 
