@@ -1,0 +1,27 @@
+How to run this code
+
+1. python -m venv .venv
+
+2..venv\Scripts\activate
+
+3. pip install -r requirements.txt
+
+
+Open three Terminals and get into .venv for 2 of them using command 2 above
+
+
+cd front_end slot-machine
+npm i or npm install
+
+
+
+In the two terminals with .venv  go inside their respective folders and run python app.py and python app.py
+
+In the front_end run in slot-machine npm run build then npm run start
+
+Please kindly put the public file in the slot-machine folder 
+
+
+
+
+
